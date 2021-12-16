@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alec-valitutti
-- 👀 I’m interested in Game Development, Full Stack Development, and programming in general
-- 🌱 I’m currently learning Full Stack Web Development and advanced C#.NET concepts
+- 👀 I’m interested in Game Development, Full Stack Development, and testing!
+- 🌱 I’m currently learning React, Node.js, Selenium, and Mock.
 - 💞️ I’m looking to collaborate on ANYTHING!
 - 📫 How to reach me: alecvalitutti.com
 
